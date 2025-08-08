@@ -1,9 +1,16 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E8BC0&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Capiz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+That+Matter+%F0%9C%9F" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E8BC0&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Capiz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+That+Matter+%F0%9F%8C%9F" alt="Typing SVG" />
-  
-  <br/>
-  
+  <em>⚠️ <strong>Note:</strong> My previous GitHub account <a href="https://github.com/ericcapiz" target="_blank">ericcapiz</a> was locked out. This is my new account: <a href="https://github.com/eric-capiz" target="_blank">eric-capiz</a>.</em>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.ericcapiz.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Portfolio%20Website-2E8BC0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
