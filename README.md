@@ -1,3 +1,19 @@
+<style>
+  .github-readme-stats a,
+  .github-readme-stats a:hover,
+  .github-readme-stats a:focus,
+  .github-readme-stats a:visited {
+    text-decoration: none !important;
+    border: none !important;
+    outline: none !important;
+  }
+  div[align="center"] a {
+    text-decoration: none !important;
+  }
+  div[align="center"] a img {
+    text-decoration: none !important;
+  }
+</style>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E8BC0&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Capiz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+That+Matter+%F0%9C%9F" alt="Typing SVG" />
 </div>
@@ -42,22 +58,23 @@
 
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
-
-<div align="center">
-  <a href="https://github.com/eric-capiz/lost-and-found" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=lost-and-found&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/eric-capiz/lost-and-found" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=lost-and-found&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=false&show_owner=true" />
   </a>
-  <a href="https://github.com/eric-capiz/card-vault" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
+  <a href="https://github.com/eric-capiz/card-vault" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=false&show_owner=true" />
   </a>
-  <a href="https://github.com/eric-capiz/barbershop" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=barbershop&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
+  <a href="https://github.com/eric-capiz/barbershop-booking" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=barbershop-booking&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=false&show_owner=true" />
   </a>
-  <a href="https://github.com/eric-capiz/course-correct" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
+  <a href="https://github.com/eric-capiz/course-correct" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=false&show_owner=true" />
+  </a>
+  <a href="https://github.com/eric-capiz/bakery" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=bakery&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=false&show_owner=true" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
