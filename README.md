@@ -44,19 +44,19 @@
 <br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/eric-capiz/lost-and-found" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=lost-and-found&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=lost-and-found&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="lost-and-found" />
   </a>
   <a href="https://github.com/eric-capiz/card-vault" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="card-vault" />
   </a>
   <a href="https://github.com/eric-capiz/barbershop-booking" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=barbershop-booking&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=barbershop-booking&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="barbershop-booking" />
   </a>
   <a href="https://github.com/eric-capiz/course-correct" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="course-correct" />
   </a>
   <a href="https://github.com/eric-capiz/bakery" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eric-capiz&repo=bakery&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=bakery&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="bakery" />
   </a>
 </div>
 <br/>
