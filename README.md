@@ -49,8 +49,8 @@
   <a href="https://github.com/eric-capiz/card-vault" style="text-decoration: none !important; border: none; outline: none;">
     <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="card-vault" />
   </a>
-  <a href="https://github.com/eric-capiz/barbershop-booking" style="text-decoration: none !important; border: none; outline: none;">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=barbershop-booking&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="barbershop-booking" />
+  <a href="https://github.com/eric-capiz/chop_shop" style="text-decoration: none !important; border: none; outline: none;">
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=chop_shop&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="chop_shop
   </a>
   <a href="https://github.com/eric-capiz/course-correct" style="text-decoration: none !important; border: none; outline: none;">
     <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=eric-capiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true&cache_seconds=86400" alt="course-correct" />
